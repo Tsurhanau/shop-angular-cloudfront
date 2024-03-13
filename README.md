@@ -1,8 +1,3 @@
-# Links
-
-- [CloudFront URL](https://d4atcrkazmadh.cloudfront.net)
-- [S3-website](http://serve-spa-s3-cloudfront-1.s3-website.eu-north-1.amazonaws.com/)
-
 # Shop Angular Cloudfront
 
 Angular version: ~12.
